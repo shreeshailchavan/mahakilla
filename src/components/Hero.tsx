@@ -15,10 +15,10 @@ const Hero = () => {
         <div className="mx-auto w-full max-w-6xl px-6 py-10 md:py-16">
           <div className="max-w-2xl">
             <p className="mb-2 inline-flex rounded-full bg-secondary/70 px-3 py-1 text-xs font-medium text-secondary-foreground ring-1 ring-border/60">
-              A living archive of fortresses
+              A living archive of forts
             </p>
             <h1 className="text-balance text-4xl font-bold tracking-tight md:text-5xl">
-              Explore Historic Forts Around the World
+              Explore Historic Forts Around Maharashtra
             </h1>
             <p className="mt-3 text-pretty text-muted-foreground md:text-lg">
               Discover striking architecture, pivotal histories, and travel-worthy
